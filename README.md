@@ -2,14 +2,16 @@
 A client has requested we create a Directory app containing all the Teachers in a given school. 
 
 Each teacher should have the following information
-
-First Name
-Last Name
-Profile picture
-Email Address
-Phone Number
-Room Number
-Subjects taught
+<ul>
+  
+<li>First Name</li>
+<li>Last Name</li>
+<li>Profile picture</li>
+<li>Email Address</li>
+<li>Phone Number</li>
+<li>Room Number</li>
+<li>Subjects taught</li>
+</ul>  
 
 Teachers can have the same first name and last name but their email address should be unique
 
